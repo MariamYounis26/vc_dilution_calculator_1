@@ -1,8 +1,0 @@
-setup.py
-helpers/__init__.py
-helpers/helpers_serialize.py
-vc_dilution_calculator.egg-info/PKG-INFO
-vc_dilution_calculator.egg-info/SOURCES.txt
-vc_dilution_calculator.egg-info/dependency_links.txt
-vc_dilution_calculator.egg-info/requires.txt
-vc_dilution_calculator.egg-info/top_level.txt
